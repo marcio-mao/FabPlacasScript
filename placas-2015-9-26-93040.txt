@@ -1,0 +1,4 @@
+Upload...
+Iniciando..: Mon Oct 26 09:30:40 BOT 2015
+Quantidade de Placas para Enviar ao mainframe:0
+Finalizando: Mon Oct 26 09:30:40 BOT 2015

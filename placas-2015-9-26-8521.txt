@@ -1,0 +1,35 @@
+Upload...
+Iniciando..: Mon Oct 26 08:52:01 BOT 2015
+Quantidade de Placas para Enviar ao mainframe:37
+Protocolo: 107921286797 sendo enviado ao Mainframe...0
+Chamando WDSocketMF.:107921286797TST101000000123456789            T000000027F1            T00000002FQ02015021809161201502180916
+Host:10.20.1.132  Porta:3002  Ambiente:CVMTW
+Enviando.:107921286797TST101000000123456789            T000000027F1            T00000002FQ02015021809161201502180916
+Enviando Mainframe..: 1445863921632(milisegundos)
+Tentativa Leitura Input:1
+Tentativa Leitura Input:2
+Tentativa Leitura Input:3
+Tentativa Leitura Input:4
+Tentativa Leitura Input:5
+Tentativa Leitura Input:6
+Tentativa Leitura Input:7
+Tentativa Leitura Input:8
+Tentativa Leitura Input:9
+Tentativa Leitura Input:10
+Tentativa Leitura Input:11
+Tentativa Leitura Input:12
+Tentativa Leitura Input:13
+Tentativa Leitura Input:14
+Tentativa Leitura Input:15
+Tentativa Leitura Input:16
+Tentativa Leitura Input:17
+Tentativa Leitura Input:18
+Tentativa Leitura Input:19
+Tentativa Leitura Input:20
+Tentativa Leitura Input:21
+Retornando Mainframe..: 1445863923658(milisegundos)
+Tempo Processamento Mainframe..: 2026(milisegundos)
+Retorno WDSocketMF.:
+>>> Erro no processamento dos protocolos, RC:
+**********************************************************************************
+Finalizando: Mon Oct 26 08:52:03 BOT 2015

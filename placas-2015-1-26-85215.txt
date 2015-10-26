@@ -1,0 +1,10 @@
+Upload...
+Iniciando..: Thu Feb 26 08:52:15 BOT 2015
+Quantidade de Placas para Enviar ao mainframe:31
+Protocolo: 107921286797 sendo enviado ao Mainframe...0
+Chamando Mainframe.:107921286797TST101000000123456789            T000000027F1            T00000002FQ02015021809161201502180916
+Host:10.20.1.132  Porta:3002  Ambiente:CVMTW
+Enviando.:107921286797TST101000000123456789            T000000027F1            T00000002FQ02015021809161201502180916
+Retorno MainFrame.:
+>>> Erro no processamento dos protocolos, RC:
+Finalizando: Thu Feb 26 08:52:16 BOT 2015
