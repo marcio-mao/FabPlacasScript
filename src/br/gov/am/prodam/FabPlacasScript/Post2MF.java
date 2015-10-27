@@ -201,7 +201,7 @@ public class Post2MF {
     
     public static void EnviaEmail(String sMsg, String sFalha) throws EmailException {
         SimpleEmail email = new SimpleEmail();
-        email.setHostName("smtps.expresso.am.gov.br"); // o servidor SMTP para envio do e-mail
+        email.setHostName("10.10.1.92"); // o servidor SMTP para envio do e-mail
         email.addTo("sacp@prodam.am.gov.br", "SACP", "ttabal@prodam.am.gov.br", "Tabal", "amoedo@prodam.am.gov.br", "Marcio Amoedo", "santos@prodam.am.gov.br", "Santos"); //destinatário
         email.setFrom("os2pdf@prodam.am.gov.br", "FABPlacasScript"); // remetente
         email.setSubject("[PRODAM - FabPlacasScrip] Falha de Envio de Placa ao Mainframe"); // assunto do e-mail
