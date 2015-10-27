@@ -14,6 +14,8 @@ import java.util.Date;
 import java.util.List;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import org.apache.commons.mail.EmailException;
+import org.apache.commons.mail.SimpleEmail;
 
 /*
  * To change this license header, choose License Headers in Project Properties.
@@ -127,6 +129,7 @@ public class Post2MF {
         System.out.println("Quantidade de Placas para Enviar ao mainframe:" + ind);        
         String parin = "";
         String parout = "";
+        String sMsg = "";
         for (int i=0;i<ind;i++) {                        
             fplaca = placaFabricadas.get(i);
             SimpleDateFormat sdf = new SimpleDateFormat("yyyyMMddHHmm");
@@ -146,9 +149,10 @@ public class Post2MF {
                 System.out.println("Chamando WDSocketMF.:" + parin);
                 parout = callMainframe(parin);
                 System.out.println("Retorno WDSocketMF.:" + parout);                        
-                if (parout.matches("/7027TIMEOUT|7005WRITE|7041PERFIL/i") || parout.trim().length()==0) { // Confirma Postgres
-                    System.out.println(">>> Erro no processamento dos protocolos, RC:");
-                    break;
+                if ( (parout.trim().length()==0) || parout.matches("/7027TIMEOUT|7005WRITE|7041PERFIL/i") )    { // Confirma Postgres
+                    System.out.println(">>> Erro no processamento do protocolo:" + fplaca.getProtocolo() + " RC:");
+                    sMsg += "Protocolo: " + fplaca.getProtocolo() + "  Placa: " + fplaca.getProtocolo() + "\n";
+//                    break;
                 } else {            
                     String codigo    = parout.substring(0, 4);                
                     System.out.println("Codigo erro.:" + codigo);
@@ -167,6 +171,13 @@ public class Post2MF {
             } catch (Exception ex) {
                 System.out.println("Erro Exception");
             } finally{
+               if (sMsg.length()>0) {
+                   try { 
+                       EnviaEmail(sMsg, parout);
+                   } catch (EmailException ex) {
+                       Logger.getLogger(Post2MF.class.getName()).log(Level.SEVERE, null, ex);
+                   }
+               }  
                System.out.println("**********************************************************************************");  
             }
             
@@ -186,5 +197,19 @@ public class Post2MF {
             return str;
         }
         return str.substring(str.length() - len);
+    }
+    
+    public static void EnviaEmail(String sMsg, String sFalha) throws EmailException {
+        SimpleEmail email = new SimpleEmail();
+        email.setHostName("smtps.expresso.am.gov.br"); // o servidor SMTP para envio do e-mail
+        email.addTo("sacp@prodam.am.gov.br", "SACP", "ttabal@prodam.am.gov.br", "Tabal", "amoedo@prodam.am.gov.br", "Marcio Amoedo", "santos@prodam.am.gov.br", "Santos"); //destinatário
+        email.setFrom("os2pdf@prodam.am.gov.br", "FABPlacasScript"); // remetente
+        email.setSubject("[PRODAM - FabPlacasScrip] Falha de Envio de Placa ao Mainframe"); // assunto do e-mail
+        email.setMsg("Falha no Envio:\n" + sMsg 
+        + "\n Favor abrir chamado para SPSTR"        
+        + "\n" + "Data: " + new java.util.Date(Calendar.getInstance().getTimeInMillis() )
+        + "\n" + "Problema: " + sFalha ); //conteudo do e-mail
+        email.setAuthentication("os2pdf@prodam.am.gov.br", "05s987");
+        email.send(); //envia o e-mail        
     }
 }

@@ -1,0 +1,260 @@
+Upload...
+Iniciando..: Tue Oct 27 09:44:40 BOT 2015
+Quantidade de Placas para Enviar ao mainframe:32
+Protocolo: 201510212216 sendo enviado ao Mainframe...0
+Chamando WDSocketMF.:201510212216NCT217518206900000155            3TJAAC9UDAB             3TJAAC7COC4 2015102618160201510261816
+Host:10.20.1.132  Porta:3016  Ambiente:CVMTI
+Enviando.:201510212216NCT217518206900000155            3TJAAC9UDAB             3TJAAC7COC4 2015102618160201510261816
+Retorno WDSocketMF.:0000ATUALIZADO COM SUCESSO
+Codigo erro.:0000
+Protocolo: 201510212216 Atualizado!
+**********************************************************************************
+Protocolo: 201510230733 sendo enviado ao Mainframe...1
+Chamando WDSocketMF.:201510230733PHA9107182069000001553PJ132CBL58 3TJAAC9P7C0 3PJ132A3D45 3TJAAC6DZE5 2015102708271201510270828
+Host:10.20.1.132  Porta:3016  Ambiente:CVMTI
+Enviando.:201510230733PHA9107182069000001553PJ132CBL58 3TJAAC9P7C0 3PJ132A3D45 3TJAAC6DZE5 2015102708271201510270828
+Retorno WDSocketMF.:0000ATUALIZADO COM SUCESSO
+Codigo erro.:0000
+Protocolo: 201510230733 Atualizado!
+**********************************************************************************
+Protocolo: 201510260215 sendo enviado ao Mainframe...2
+Chamando WDSocketMF.:201510260215PHG718018206900000155                        3PJ1328HXFC 3TJAAC0KY83 2015102707520201510270752
+Host:10.20.1.132  Porta:3016  Ambiente:CVMTI
+Enviando.:201510260215PHG718018206900000155                        3PJ1328HXFC 3TJAAC0KY83 2015102707520201510270752
+Retorno WDSocketMF.:0000ATUALIZADO COM SUCESSO
+Codigo erro.:0000
+Protocolo: 201510260215 Atualizado!
+**********************************************************************************
+Protocolo: 201510260252 sendo enviado ao Mainframe...3
+Chamando WDSocketMF.:201510260252PHG714018206900000155                        3PJ1328HVF4 3TJAAC1BH81 2015102707530201510270753
+Host:10.20.1.132  Porta:3016  Ambiente:CVMTI
+Enviando.:201510260252PHG714018206900000155                        3PJ1328HVF4 3TJAAC1BH81 2015102707530201510270753
+Retorno WDSocketMF.:0000ATUALIZADO COM SUCESSO
+Codigo erro.:0000
+Protocolo: 201510260252 Atualizado!
+**********************************************************************************
+Protocolo: 201510260346 sendo enviado ao Mainframe...4
+Chamando WDSocketMF.:201510260346PHH355918206900000155                        3PJ1328HUC1 3TJAAC0KH5B 2015102707580201510270759
+Host:10.20.1.132  Porta:3016  Ambiente:CVMTI
+Enviando.:201510260346PHH355918206900000155                        3PJ1328HUC1 3TJAAC0KH5B 2015102707580201510270759
+Retorno WDSocketMF.:0000ATUALIZADO COM SUCESSO
+Codigo erro.:0000
+Protocolo: 201510260346 Atualizado!
+**********************************************************************************
+Protocolo: 201510260407 sendo enviado ao Mainframe...5
+Chamando WDSocketMF.:201510260407PHH364918206900000155                        3PJ1328I35D 3TJAAC15A42 2015102707430201510270743
+Host:10.20.1.132  Porta:3016  Ambiente:CVMTI
+Enviando.:201510260407PHH364918206900000155                        3PJ1328I35D 3TJAAC15A42 2015102707430201510270743
+Retorno WDSocketMF.:0000ATUALIZADO COM SUCESSO
+Codigo erro.:0000
+Protocolo: 201510260407 Atualizado!
+**********************************************************************************
+Protocolo: 201510260446 sendo enviado ao Mainframe...6
+Chamando WDSocketMF.:201510260446PHG704018206900000155                        3PJ1328I20B 3TJAAC0JQ56 2015102707440201510270744
+Host:10.20.1.132  Porta:3016  Ambiente:CVMTI
+Enviando.:201510260446PHG704018206900000155                        3PJ1328I20B 3TJAAC0JQ56 2015102707440201510270744
+Retorno WDSocketMF.:0000ATUALIZADO COM SUCESSO
+Codigo erro.:0000
+Protocolo: 201510260446 Atualizado!
+**********************************************************************************
+Protocolo: 201510260484 sendo enviado ao Mainframe...7
+Chamando WDSocketMF.:201510260484PHH457018206900000155                        3PJ1328I52B 3TJAAC0KC73 2015102707420201510270742
+Host:10.20.1.132  Porta:3016  Ambiente:CVMTI
+Enviando.:201510260484PHH457018206900000155                        3PJ1328I52B 3TJAAC0KC73 2015102707420201510270742
+Retorno WDSocketMF.:0000ATUALIZADO COM SUCESSO
+Codigo erro.:0000
+Protocolo: 201510260484 Atualizado!
+**********************************************************************************
+Protocolo: 201510260551 sendo enviado ao Mainframe...8
+Chamando WDSocketMF.:201510260551PHG696018206900000155                        3PJ1328HWC2 3TJAAC1BTE9 2015102707520201510270752
+Host:10.20.1.132  Porta:3016  Ambiente:CVMTI
+Enviando.:201510260551PHG696018206900000155                        3PJ1328HWC2 3TJAAC1BTE9 2015102707520201510270752
+Retorno WDSocketMF.:0000ATUALIZADO COM SUCESSO
+Codigo erro.:0000
+Protocolo: 201510260551 Atualizado!
+**********************************************************************************
+Protocolo: 201510260596 sendo enviado ao Mainframe...9
+Chamando WDSocketMF.:201510260596PHH372918206900000155                        3PJ1328HYE1 3TJAAC0KW99 2015102707510201510270751
+Host:10.20.1.132  Porta:3016  Ambiente:CVMTI
+Enviando.:201510260596PHH372918206900000155                        3PJ1328HYE1 3TJAAC0KW99 2015102707510201510270751
+Retorno WDSocketMF.:0000ATUALIZADO COM SUCESSO
+Codigo erro.:0000
+Protocolo: 201510260596 Atualizado!
+**********************************************************************************
+Protocolo: 201510260631 sendo enviado ao Mainframe...10
+Chamando WDSocketMF.:201510260631PHG812018206900000155                        3PJ1328I0E0 3TJAAC1BQEF 2015102707500201510270750
+Host:10.20.1.132  Porta:3016  Ambiente:CVMTI
+Enviando.:201510260631PHG812018206900000155                        3PJ1328I0E0 3TJAAC1BQEF 2015102707500201510270750
+Retorno WDSocketMF.:0000ATUALIZADO COM SUCESSO
+Codigo erro.:0000
+Protocolo: 201510260631 Atualizado!
+**********************************************************************************
+Protocolo: 201510260679 sendo enviado ao Mainframe...11
+Chamando WDSocketMF.:201510260679PHH516018206900000155                        3PJ1328HZE8 3TJAAC1BW90 2015102707500201510270751
+Host:10.20.1.132  Porta:3016  Ambiente:CVMTI
+Enviando.:201510260679PHH516018206900000155                        3PJ1328HZE8 3TJAAC1BW90 2015102707500201510270751
+Retorno WDSocketMF.:0000ATUALIZADO COM SUCESSO
+Codigo erro.:0000
+Protocolo: 201510260679 Atualizado!
+**********************************************************************************
+Protocolo: 201510260684 sendo enviado ao Mainframe...12
+Chamando WDSocketMF.:201510260684NOJ3667182069000001553PJ132BYN5E 3TJAAC9EL96 3PJ132B01DF 3TJAAC6OX3C 2015102708310201510270831
+Host:10.20.1.132  Porta:3016  Ambiente:CVMTI
+Enviando.:201510260684NOJ3667182069000001553PJ132BYN5E 3TJAAC9EL96 3PJ132B01DF 3TJAAC6OX3C 2015102708310201510270831
+Retorno WDSocketMF.:0000ATUALIZADO COM SUCESSO
+Codigo erro.:0000
+Protocolo: 201510260684 Atualizado!
+**********************************************************************************
+Protocolo: 201510260693 sendo enviado ao Mainframe...13
+Chamando WDSocketMF.:201510260693PHG790018206900000155                        3PJ1328I189 3TJAAC1BO88 2015102707450201510270745
+Host:10.20.1.132  Porta:3016  Ambiente:CVMTI
+Enviando.:201510260693PHG790018206900000155                        3PJ1328I189 3TJAAC1BO88 2015102707450201510270745
+Retorno WDSocketMF.:0000ATUALIZADO COM SUCESSO
+Codigo erro.:0000
+Protocolo: 201510260693 Atualizado!
+**********************************************************************************
+Protocolo: 201510260809 sendo enviado ao Mainframe...14
+Chamando WDSocketMF.:201510260809PHG675018206900000155                        3PJ1328I60A 3TJAAC0K2DC 2015102707410201510270742
+Host:10.20.1.132  Porta:3016  Ambiente:CVMTI
+Enviando.:201510260809PHG675018206900000155                        3PJ1328I60A 3TJAAC0K2DC 2015102707410201510270742
+Retorno WDSocketMF.:0000ATUALIZADO COM SUCESSO
+Codigo erro.:0000
+Protocolo: 201510260809 Atualizado!
+**********************************************************************************
+Protocolo: 201510260823 sendo enviado ao Mainframe...15
+Chamando WDSocketMF.:201510260823PHG6820182069000001553PJ132BYQBC 3TJAAC9EKFB 3PJ132B0502 3TJAAC6OQF4 2015102618020201510261802
+Host:10.20.1.132  Porta:3016  Ambiente:CVMTI
+Enviando.:201510260823PHG6820182069000001553PJ132BYQBC 3TJAAC9EKFB 3PJ132B0502 3TJAAC6OQF4 2015102618020201510261802
+Retorno WDSocketMF.:0000ATUALIZADO COM SUCESSO
+Codigo erro.:0000
+Protocolo: 201510260823 Atualizado!
+**********************************************************************************
+Protocolo: 201510260866 sendo enviado ao Mainframe...16
+Chamando WDSocketMF.:201510260866PHG748018206900000155                        3PJ1328I799 3TJAAC0K5F8 2015102707410201510270741
+Host:10.20.1.132  Porta:3016  Ambiente:CVMTI
+Enviando.:201510260866PHG748018206900000155                        3PJ1328I799 3TJAAC0K5F8 2015102707410201510270741
+Retorno WDSocketMF.:0000ATUALIZADO COM SUCESSO
+Codigo erro.:0000
+Protocolo: 201510260866 Atualizado!
+**********************************************************************************
+Protocolo: 201510260904 sendo enviado ao Mainframe...17
+Chamando WDSocketMF.:201510260904PHH383918206900000155                        3PJ1328I4DF 3TJAAC0K32D 2015102707420201510270743
+Host:10.20.1.132  Porta:3016  Ambiente:CVMTI
+Enviando.:201510260904PHH383918206900000155                        3PJ1328I4DF 3TJAAC0K32D 2015102707420201510270743
+Retorno WDSocketMF.:0000ATUALIZADO COM SUCESSO
+Codigo erro.:0000
+Protocolo: 201510260904 Atualizado!
+**********************************************************************************
+Protocolo: 201510260946 sendo enviado ao Mainframe...18
+Chamando WDSocketMF.:201510260946PHH385918206900000155                        3PJ1328I861 3TJAAC0KB0A 2015102707400201510270740
+Host:10.20.1.132  Porta:3016  Ambiente:CVMTI
+Enviando.:201510260946PHH385918206900000155                        3PJ1328I861 3TJAAC0KB0A 2015102707400201510270740
+Retorno WDSocketMF.:0000ATUALIZADO COM SUCESSO
+Codigo erro.:0000
+Protocolo: 201510260946 Atualizado!
+**********************************************************************************
+Protocolo: 201510261182 sendo enviado ao Mainframe...19
+Chamando WDSocketMF.:201510261182PHH4059182069000001553PJ132BYTCA 3TJAAC9PBF5 3PJ132B0871 3TJAAC7AB7F 2015102617200201510261720
+Host:10.20.1.132  Porta:3016  Ambiente:CVMTI
+Enviando.:201510261182PHH4059182069000001553PJ132BYTCA 3TJAAC9PBF5 3PJ132B0871 3TJAAC7AB7F 2015102617200201510261720
+Retorno WDSocketMF.:0000ATUALIZADO COM SUCESSO
+Codigo erro.:0000
+Protocolo: 201510261182 Atualizado!
+**********************************************************************************
+Protocolo: 201510261198 sendo enviado ao Mainframe...20
+Chamando WDSocketMF.:201510261198PHH4069182069000001553PJ132BYUFE 3TJAAC9KVCF 3PJ132B09EA 3TJAAC7A23B 2015102617200201510261720
+Host:10.20.1.132  Porta:3016  Ambiente:CVMTI
+Enviando.:201510261198PHH4069182069000001553PJ132BYUFE 3TJAAC9KVCF 3PJ132B09EA 3TJAAC7A23B 2015102617200201510261720
+Retorno WDSocketMF.:0000ATUALIZADO COM SUCESSO
+Codigo erro.:0000
+Protocolo: 201510261198 Atualizado!
+**********************************************************************************
+Protocolo: 201510261225 sendo enviado ao Mainframe...21
+Chamando WDSocketMF.:201510261225PHH4089182069000001553PJ132BYR66 3TJAAC9IH73 3PJ132B06BF 3TJAAC66GFE 2015102617220201510261722
+Host:10.20.1.132  Porta:3016  Ambiente:CVMTI
+Enviando.:201510261225PHH4089182069000001553PJ132BYR66 3TJAAC9IH73 3PJ132B06BF 3TJAAC66GFE 2015102617220201510261722
+Retorno WDSocketMF.:0000ATUALIZADO COM SUCESSO
+Codigo erro.:0000
+Protocolo: 201510261225 Atualizado!
+**********************************************************************************
+Protocolo: 201510261235 sendo enviado ao Mainframe...22
+Chamando WDSocketMF.:201510261235PHH4099182069000001553PJ132BYS52 3TJAAC9PKAE 3PJ132B0702 3TJAAC7A42E 2015102617210201510261721
+Host:10.20.1.132  Porta:3016  Ambiente:CVMTI
+Enviando.:201510261235PHH4099182069000001553PJ132BYS52 3TJAAC9PKAE 3PJ132B0702 3TJAAC7A42E 2015102617210201510261721
+Retorno WDSocketMF.:0000ATUALIZADO COM SUCESSO
+Codigo erro.:0000
+Protocolo: 201510261235 Atualizado!
+**********************************************************************************
+Protocolo: 201510261471 sendo enviado ao Mainframe...23
+Chamando WDSocketMF.:201510261471PHH419918206900000155                        3PJ1328HTD1 3TJAAC0KRED 2015102709020201510270902
+Host:10.20.1.132  Porta:3016  Ambiente:CVMTI
+Enviando.:201510261471PHH419918206900000155                        3PJ1328HTD1 3TJAAC0KRED 2015102709020201510270902
+Retorno WDSocketMF.:0000ATUALIZADO COM SUCESSO
+Codigo erro.:0000
+Protocolo: 201510261471 Atualizado!
+**********************************************************************************
+Protocolo: 201510261638 sendo enviado ao Mainframe...24
+Chamando WDSocketMF.:201510261638PHH4070182069000001553PJ132BYOF4 3TJAAC9EJ94 3PJ132B03B6 3TJAAC6OV6F 2015102708240201510270825
+Host:10.20.1.132  Porta:3016  Ambiente:CVMTI
+Enviando.:201510261638PHH4070182069000001553PJ132BYOF4 3TJAAC9EJ94 3PJ132B03B6 3TJAAC6OV6F 2015102708240201510270825
+Retorno WDSocketMF.:0000ATUALIZADO COM SUCESSO
+Codigo erro.:0000
+Protocolo: 201510261638 Atualizado!
+**********************************************************************************
+Protocolo: 201510261652 sendo enviado ao Mainframe...25
+Chamando WDSocketMF.:201510261652PHX1000182069000001553PJ132BYPD4 3TJAAC9DU2C 3PJ132B04DD 3TJAAC6OP5C 2015102707390201510270739
+Host:10.20.1.132  Porta:3016  Ambiente:CVMTI
+Enviando.:201510261652PHX1000182069000001553PJ132BYPD4 3TJAAC9DU2C 3PJ132B04DD 3TJAAC6OP5C 2015102707390201510270739
+Retorno WDSocketMF.:0000ATUALIZADO COM SUCESSO
+Codigo erro.:0000
+Protocolo: 201510261652 Atualizado!
+**********************************************************************************
+Protocolo: 201510261679 sendo enviado ao Mainframe...26
+Chamando WDSocketMF.:201510261679PHH428918206900000155                        3PJ132F7R61 3TJAAC1BD99 2015102617121201510261713
+Host:10.20.1.132  Porta:3016  Ambiente:CVMTI
+Enviando.:201510261679PHH428918206900000155                        3PJ132F7R61 3TJAAC1BD99 2015102617121201510261713
+Retorno WDSocketMF.:0000ATUALIZADO COM SUCESSO
+Codigo erro.:0000
+Protocolo: 201510261679 Atualizado!
+**********************************************************************************
+Protocolo: 201510262199 sendo enviado ao Mainframe...27
+Chamando WDSocketMF.:201510262199PHH4629182069000001553PJ132BYVCC 3TJAAC9PE6A 3PJ132B0A92 3TJAAC66H04 2015102617180201510261718
+Host:10.20.1.132  Porta:3016  Ambiente:CVMTI
+Enviando.:201510262199PHH4629182069000001553PJ132BYVCC 3TJAAC9PE6A 3PJ132B0A92 3TJAAC66H04 2015102617180201510261718
+Retorno WDSocketMF.:0000ATUALIZADO COM SUCESSO
+Codigo erro.:0000
+Protocolo: 201510262199 Atualizado!
+**********************************************************************************
+Protocolo: 201510270122 sendo enviado ao Mainframe...28
+Chamando WDSocketMF.:201510270122JWO552218206900000155            3TJAAC9UT7B             3TJAAC74V7A 2015102708150201510270815
+Host:10.20.1.132  Porta:3016  Ambiente:CVMTI
+Enviando.:201510270122JWO552218206900000155            3TJAAC9UT7B             3TJAAC74V7A 2015102708150201510270815
+Retorno WDSocketMF.:0000ATUALIZADO COM SUCESSO
+Codigo erro.:0000
+Protocolo: 201510270122 Atualizado!
+**********************************************************************************
+Protocolo: 201510270125 sendo enviado ao Mainframe...29
+Chamando WDSocketMF.:201510270125PHH4639182069000001553PJ132BYK2B 3TJAAC9EIA3 3PJ132AZY57 3TJAAC6OW2E 2015102709430201510270944
+Host:10.20.1.132  Porta:3016  Ambiente:CVMTI
+Enviando.:201510270125PHH4639182069000001553PJ132BYK2B 3TJAAC9EIA3 3PJ132AZY57 3TJAAC6OW2E 2015102709430201510270944
+Retorno WDSocketMF.:0000ATUALIZADO COM SUCESSO
+Codigo erro.:0000
+Protocolo: 201510270125 Atualizado!
+**********************************************************************************
+Protocolo: 201510270129 sendo enviado ao Mainframe...30
+Chamando WDSocketMF.:201510270129PHH4649182069000001553PJ132BYL91 3TJAAC9EQBD 3PJ132AZZ28 3TJAAC6PEBA 2015102709430201510270943
+Host:10.20.1.132  Porta:3016  Ambiente:CVMTI
+Enviando.:201510270129PHH4649182069000001553PJ132BYL91 3TJAAC9EQBD 3PJ132AZZ28 3TJAAC6PEBA 2015102709430201510270943
+Retorno WDSocketMF.:0000ATUALIZADO COM SUCESSO
+Codigo erro.:0000
+Protocolo: 201510270129 Atualizado!
+**********************************************************************************
+Protocolo: 201510270310 sendo enviado ao Mainframe...31
+Chamando WDSocketMF.:201510270310PHH4699182069000001553PJ132BYM3F 3TJAABK6302 3PJ132B0067 3TJAABL5O5F 2015102709010201510270901
+Host:10.20.1.132  Porta:3016  Ambiente:CVMTI
+Enviando.:201510270310PHH4699182069000001553PJ132BYM3F 3TJAABK6302 3PJ132B0067 3TJAABL5O5F 2015102709010201510270901
+Retorno WDSocketMF.:0000ATUALIZADO COM SUCESSO
+Codigo erro.:0000
+Protocolo: 201510270310 Atualizado!
+**********************************************************************************
+Finalizando: Tue Oct 27 09:44:57 BOT 2015
